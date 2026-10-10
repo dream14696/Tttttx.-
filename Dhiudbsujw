@@ -963,6 +963,11 @@ AddScriptButton("Troll Aimbot FP", function()
     end)
 end)
 
+-- 6. Murder Mystery Full Keyless
+AddScriptButton("Murder Mystery Full Keyless", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/dream14696/Wxcbdknsml2k2/refs/heads/main/Wxcshhmd"))()
+end)
+
 -- ==========================================
 -- DRAG Y CONTROLES GENERALES DE LA VENTANA
 -- ==========================================
