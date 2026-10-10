@@ -721,7 +721,7 @@ AddScriptButton("OP Adivine Hub v4", function()
     WelcomeText.BackgroundTransparency=1
     WelcomeText.Text="Bienvenido, "..Player.DisplayName
     WelcomeText.Font=Enum.Font.GothamMedium
-WelcomeText.TextSize=13
+    WelcomeText.TextSize=13
     WelcomeText.TextColor3=Color3.new(1,1,1)
     WelcomeText.TextXAlignment=Enum.TextXAlignment.Left
     WelcomeText.ZIndex=6
